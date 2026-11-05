@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude-compatible browser"
+  short_description: "Drive authenticated Chrome for Gmail, scraping, and QA"
+  default_prompt: "Use the existing agent Chrome/CDP bridge for authenticated browser research and visual QA."
